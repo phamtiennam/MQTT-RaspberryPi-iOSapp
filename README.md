@@ -1,6 +1,6 @@
 # MQTT-RaspberryPi-iOSapp
 I'm too lazy to turn off the bedroom lights when I go to bed.
-I want to use the phone to control them with my voice.
+I want to use my Iphone to control them with my voice.
 
 How I'm going to do it.
 1. The bedroom lights are connected with a Raspberry Pi
