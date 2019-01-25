@@ -6,4 +6,4 @@ How I'm going to do it.
 1. The bedroom lights are connected with a Raspberry Pi(RPI)
 2. The MQTT client is installed in RPI
 3. MQTT server is on the cloud or in RPI
-4. An IOS app with Siri API and MQTT connection.
+4. An IOS 12 app with Siri API and MQTT connection.
